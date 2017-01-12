@@ -98,7 +98,7 @@ var_dump(makereq('sendMessage',[
 
 🔹برای ساخت ربات از دکمه ی 🔄 ساخت ربات استفاده نمایید.
 
-🤖 @PvSazBot",
+🤖 @Pmresansaz_rebot",
 		'parse_mode'=>'MarkDown',
         	'reply_markup'=>json_encode([
             	'keyboard'=>[
@@ -224,7 +224,7 @@ var_dump(makereq('sendMessage',[
 
 🔹برای ساخت ربات از دکمه ی 🔄 ساخت ربات استفاده نمایید.
 
-🤖 @PvSazBot",
+🤖 @Pmresansaz_rebot",
 		'parse_mode'=>'MarkDown',
         	'reply_markup'=>json_encode([
             	'keyboard'=>[
