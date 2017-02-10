@@ -1,5 +1,5 @@
 <?php
-define('API_KEY','token');
+define('API_KEY','370745042:AAGCtMmd1hLG_EHD_BiDIt1-dcci5A35tcAtcA');
 //----######------
 function makereq($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
@@ -52,7 +52,7 @@ $username = $update->message->from->username;
 $textmessage = isset($update->message->text)?$update->message->text:'';
 $reply = $update->message->reply_to_message->forward_from->id;
 $stickerid = $update->message->reply_to_message->sticker->file_id;
-$admin = 66443035;
+$admin =126778892;
 $step = file_get_contents("data/".$from_id."/step.txt");
 
 //-------
