@@ -8,7 +8,7 @@
 	# if you need Help for develop this source , You Can Send Message To Me With @SpyGuard_BOT #
 	############################################################################################
 	*/
-	define('API_KEY','[*BOTTOKEN*]');
+	define('API_KEY','[*370745042:AAGCtMmd1hLG_EHD_BiDIt1-dcci5A35tcA*]');
 	//----######------
 	
 	function makereq($method,$datas=[]){
